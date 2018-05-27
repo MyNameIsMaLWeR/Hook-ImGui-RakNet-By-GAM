@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hook By GAM", "Hook By GAM\Hook By GAM.vcxproj", "{65B3891E-8BEA-4219-B0B8-F682FEFDE959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Main|x86 = Main|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B3891E-8BEA-4219-B0B8-F682FEFDE959}.Main|x86.ActiveCfg = Main|Win32
+		{65B3891E-8BEA-4219-B0B8-F682FEFDE959}.Main|x86.Build.0 = Main|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8545A07C-CB49-4DA0-A84E-025E5723BECB}
+	EndGlobalSection
+EndGlobal
